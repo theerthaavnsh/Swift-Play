@@ -21,6 +21,14 @@ header{
     width: 85%;
     height: 95%;
     border: 1px solid #e2d5f1;
+    display: flex;
+}
+
+header .menu_side, .song_side {
+    position :relative;
+    width : 25%;
+    height : 90vh;
+    border : 1px solid #e2d5f1;
 }
 
 

@@ -31,7 +31,7 @@ header .menu_side, .song_side {
     height : 90vh;
     /*border : 1px solid #e2d5f1;*/
     background-color:b8acd1 ;
-    box-shadow: 5px 0px;
+    box-shadow: 5px 0px #4e4466;
 }
 header .song_side {
     width:75%;

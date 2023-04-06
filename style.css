@@ -30,5 +30,8 @@ header .menu_side, .song_side {
     height : 90vh;
     border : 1px solid #e2d5f1;
 }
-
+header .song_side {
+    width:75%;
+    
+}
 

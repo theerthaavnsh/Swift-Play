@@ -28,10 +28,14 @@ header .menu_side, .song_side {
     position :relative;
     width : 25%;
     height : 90vh;
-    border : 1px solid #e2d5f1;
+    /*border : 1px solid #e2d5f1;*/
+    background-color:b8acd1 ;
+    box-shadow: 5px 0px;
 }
 header .song_side {
     width:75%;
-    
+    background-color: #b8acd1;
+     
+
 }
 
